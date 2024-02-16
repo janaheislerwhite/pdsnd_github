@@ -7,7 +7,7 @@ This project and README file were created on 16 February 2024.
 Jana's Final Project for Programming Nanodegree- Git and Github
 
 ### Description
-This project is intended to illustrate what Jana has learned in Git and Github as part of her Udacity Nanodegree in Programming and R.
+This project is intended to illustrate what Jana has learned in Git and Github as part of her Udacity Nanodegree in Programming and R. Git and Github were the most challenging sections.
 
 ### Files used
 The files used include R files and data files.
