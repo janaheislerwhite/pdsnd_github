@@ -1,17 +1,17 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Include the date you created this project and README file.
+This project and README file were created on 16 February 2024.
 
 ### Project Title
-Replace the Project Title
+Jana's Final Project - Git and Github
 
 ### Description
-Describe what your project is about and what it does
+This project is intended to illustrate what Jana has learned in Git and Github as part of her Udacity Nanodegree in Programming and R.
 
 ### Files used
-Include the files used
+The files used include R files and data files.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+I have learned a lot through my Udacity Nanodegree in Programming and R.
 
