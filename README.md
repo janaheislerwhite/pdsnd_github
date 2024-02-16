@@ -10,7 +10,7 @@ Jana's Final Project for Programming Nanodegree- Git and Github
 This project is intended to illustrate what Jana has learned in Git and Github as part of her Udacity Nanodegree in Programming and R. Git and Github were the most challenging sections.
 
 ### Files used
-The files used include R files and data files.
+The files used include R files and data files. I didn't learn python in this course.
 
 ### Credits
 I have learned a lot through my Udacity Nanodegree in Programming and R.
